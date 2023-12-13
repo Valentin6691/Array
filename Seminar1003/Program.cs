@@ -12,6 +12,10 @@ Console.Write(array[i] + " ");
 Console.WriteLine();
 for(int i = 0; i<array2.Length; i++)
 {
+    if(i == num - 1 -i)
+    {
+        return;
+    }
 array2[i] = array[i] * array[array.Length - 1 - i];
 Console.Write(array2[i] + " ");
 }

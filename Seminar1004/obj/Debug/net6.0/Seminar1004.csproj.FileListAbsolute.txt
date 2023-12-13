@@ -1,0 +1,15 @@
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.csproj.AssemblyReference.cache
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.AssemblyInfoInputs.cache
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.AssemblyInfo.cs
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.csproj.CoreCompileInputs.cache
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\bin\Debug\net6.0\Seminar1004.exe
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\bin\Debug\net6.0\Seminar1004.deps.json
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\bin\Debug\net6.0\Seminar1004.runtimeconfig.json
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\bin\Debug\net6.0\Seminar1004.dll
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\bin\Debug\net6.0\Seminar1004.pdb
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.dll
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\refint\Seminar1004.dll
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.pdb
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\Seminar1004.genruntimeconfig.cache
+C:\Users\ALFA\Desktop\Seminar1\Seminar1004\obj\Debug\net6.0\ref\Seminar1004.dll
